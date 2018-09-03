@@ -1,3 +1,6 @@
 # AutoResumeUpdate
-Tool for update Resume
-This tool is for update Resume for job seekers
+This tool is for refresh Resume for job seekers
+# Install
+pip install -r requirements.txt
+# Run
+Auto
